@@ -1,0 +1,3 @@
+/Users/ravishersingh/CLionProjects/untitled31/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ravishersingh/CLionProjects/untitled31/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ravishersingh/CLionProjects/untitled31/cmake-build-debug/CMakeFiles/untitled31.dir
